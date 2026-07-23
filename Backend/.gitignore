@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Scripts
+scripts/
