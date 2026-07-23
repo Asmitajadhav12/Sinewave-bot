@@ -1,0 +1,7 @@
+ASSETS_DIR=c:\uploads\screenshots
+
+SUPABASE_URL=https://riwndguclicvlopznfkv.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJpd25kZ3VjbGljdmxvcHpuZmt2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg3OTYzMDIsImV4cCI6MjA4NDM3MjMwMn0.rr3XLXnUWI30JgFuA6sc2_fCC7fmGZIi2Vs5HJPZpHw
+SUPABASE_SCHEMA=sinewave_bot_dev
+
+API_URL=https://3.111.221.156/swbot/api/
